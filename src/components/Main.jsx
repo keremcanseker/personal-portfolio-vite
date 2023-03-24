@@ -6,7 +6,7 @@ export default function Main() {
   return (
     <div id='main'>
 
-        <img className='w-full h-screen object-cover object-left ' src='/src/karl.jpg' alt="ha" />
+        <img className='w-full h-screen object-cover object-left ' src='/karl.jpg' alt="ha" />
 
 
        
