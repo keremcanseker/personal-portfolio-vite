@@ -6,7 +6,7 @@ export default function Main() {
   return (
     <div id='main'>
 
-
+        <img className='w-full h-screen object-cover object-left ' src="https://imgur.com/a/Cx0YAnO" alt="ha" />
 
        
         <div className='w-full h-screen absolute top-0 left-0 bg-white/20'>
