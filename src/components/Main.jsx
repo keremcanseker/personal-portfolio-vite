@@ -4,11 +4,9 @@ import {FaTwitter, FaFacebookF,FaInstagram,FaLinkedinIn} from "react-icons/fa"
 export default function Main() {
   return (
     <div id='main'>
-<<<<<<< HEAD
-        <img className='w-full h-screen object-cover object-left ' src="karl-fredrickson-DsAjH9B24G8-unsplash.jpg" alt="ha" />
-=======
-        <img className='w-full h-screen object-cover object-left ' src="assets/karl-fredrickson-DsAjH9B24G8-unsplash.jpg" alt="ha" />
->>>>>>> 4979fd881ab0d1aa99b60902772080df6bebe282
+
+        <img className='w-full h-screen object-cover object-left ' src="karl.jpg" alt="ha" />
+       
         <div className='w-full h-screen absolute top-0 left-0 bg-white/20'>
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-white '>I'm Brain Adam</h1>
