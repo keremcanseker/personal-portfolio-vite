@@ -1,0 +1,5 @@
+that typing animation
+tailwind is based on mobile design first 
+bg-[#xxx] custom color
+
+scroll-behavior: smooth;
